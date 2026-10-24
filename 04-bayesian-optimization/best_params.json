@@ -1,0 +1,14 @@
+{
+  "annealing_T": 105.0,
+  "annealing_t": 10.0,
+  "thickness": 500.0,
+  "humidity": 35.0,
+  "quench": "Diethyl ether",
+  "composition": "FAMAPbBrI",
+  "ETL": "PCBM-60 | BCP",
+  "HTL": "PTAA",
+  "back": "Ag",
+  "predicted_PCE": 18.91,
+  "rand_best": 18.84,
+  "n_train_samples_nearby": 632
+}

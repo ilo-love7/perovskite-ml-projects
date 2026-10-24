@@ -1,0 +1,22 @@
+# 大文件/数据集不入库
+03-pce-regression/data/
+05-defect-detection/data/
+05-defect-detection/runs/
+02-pinn-sclc/data/
+01-sclc-pipeline/data/raw/
+01-sclc-pipeline/data/demo/
+01-sclc-pipeline/results/
+
+# 训练产物
+runs/
+*.pt
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
